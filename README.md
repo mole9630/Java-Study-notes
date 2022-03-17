@@ -7,6 +7,7 @@
 * [220307](https://github.com/mole9630/Java-Study-notes/tree/main/%E6%A0%A1%E5%86%85%E8%AF%BE%E7%A8%8B/220307)-强制类型转换,算数运算符,关系表达式,逻辑运算符,复合赋值运算符,位运算
 * [220310](https://github.com/mole9630/Java-Study-notes/tree/main/%E6%A0%A1%E5%86%85%E8%AF%BE%E7%A8%8B/220310)-判断,while循环
 * [220314](https://github.com/mole9630/Java-Study-notes/tree/main/%E6%A0%A1%E5%86%85%E8%AF%BE%E7%A8%8B/220314)-switch,while,dowhile,for循环
+* 220317-定义及调用方法,静态变量及方法,方法重载,对话框提示及输入,字符串转换为整型,break和continue的使用,水仙花数
 
 ## 浙大课程
 * [Class1_2_2](https://github.com/mole9630/Java-Study-notes/blob/main/%E6%B5%99%E5%A4%A7%E8%AF%BE%E7%A8%8B/Class1-%E8%AE%A1%E7%AE%97/class1_2_2.java) | 变量
