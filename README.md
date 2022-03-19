@@ -10,16 +10,31 @@
 * 220317-定义及调用方法,静态变量及方法,方法重载,对话框提示及输入,字符串转换为整型,break和continue的使用,水仙花数
 
 ## 浙大课程
+### Class1-计算
 * [Class1_2_2](https://github.com/mole9630/Java-Study-notes/blob/main/%E6%B5%99%E5%A4%A7%E8%AF%BE%E7%A8%8B/Class1-%E8%AE%A1%E7%AE%97/class1_2_2.java) | 变量
 * [Class1_2_3](https://github.com/mole9630/Java-Study-notes/blob/main/%E6%B5%99%E5%A4%A7%E8%AF%BE%E7%A8%8B/Class1-%E8%AE%A1%E7%AE%97/class1_2_3.java) | 赋值
 * [Class1_3_1](https://github.com/mole9630/Java-Study-notes/blob/main/%E6%B5%99%E5%A4%A7%E8%AF%BE%E7%A8%8B/Class1-%E8%AE%A1%E7%AE%97/class1_3_1.java) | 浮点数
 * [Class1_3_2](https://github.com/mole9630/Java-Study-notes/blob/main/%E6%B5%99%E5%A4%A7%E8%AF%BE%E7%A8%8B/Class1-%E8%AE%A1%E7%AE%97/Class1_3_2.java) | 运算符优先级
 * [Class1_3_3](https://github.com/mole9630/Java-Study-notes/blob/main/%E6%B5%99%E5%A4%A7%E8%AF%BE%E7%A8%8B/Class1-%E8%AE%A1%E7%AE%97/Class1_3_3.java) | 类型的转换
+### Class2-判断
 * [Class2_2_1](https://github.com/mole9630/Java-Study-notes/blob/main/%E6%B5%99%E5%A4%A7%E8%AF%BE%E7%A8%8B/Class2-%E5%88%A4%E6%96%AD/Class2_2_1.java) | 比较
 * [Class2_2_2](https://github.com/mole9630/Java-Study-notes/blob/main/%E6%B5%99%E5%A4%A7%E8%AF%BE%E7%A8%8B/Class2-%E5%88%A4%E6%96%AD/Class2_2_2.java) | 判断语句
 * [Class2_3_1](https://github.com/mole9630/Java-Study-notes/blob/main/%E6%B5%99%E5%A4%A7%E8%AF%BE%E7%A8%8B/Class2-%E5%88%A4%E6%96%AD/Class2_3_1.java) | 嵌套与级联的判断
 * [Class2_3_2](https://github.com/mole9630/Java-Study-notes/blob/main/%E6%B5%99%E5%A4%A7%E8%AF%BE%E7%A8%8B/Class2-%E5%88%A4%E6%96%AD/Class2_3_2.java) | 多路分支(Switch-case)
 * [Class2_4](https://github.com/mole9630/Java-Study-notes/blob/main/%E6%B5%99%E5%A4%A7%E8%AF%BE%E7%A8%8B/Class2-%E5%88%A4%E6%96%AD/Class2_4.java) | 判断语句常见错误
+### Class3-循环
 * [Class3_1_1](https://github.com/mole9630/Java-Study-notes/blob/main/%E6%B5%99%E5%A4%A7%E8%AF%BE%E7%A8%8B/Class3-%E5%BE%AA%E7%8E%AF/Class3_1_1.java) | 循环
 * [Class3_1_2](https://github.com/mole9630/Java-Study-notes/blob/main/%E6%B5%99%E5%A4%A7%E8%AF%BE%E7%A8%8B/Class3-%E5%BE%AA%E7%8E%AF/Class3_1_2.java) | 数数字
 * [Class3_1_3](https://github.com/mole9630/Java-Study-notes/blob/main/%E6%B5%99%E5%A4%A7%E8%AF%BE%E7%A8%8B/Class3-%E5%BE%AA%E7%8E%AF/Class3_1_3.java) | while循环与验证
+* Class3_1_4 | do-while循环
+* Class3_2_1 | 计数循环
+* Class3_2_2 | 算平均数
+* Class3_2_3 | 猜数游戏
+* Class3_2_4 | 整数的分解
+### Class4-循环控制
+* Class4_1_1 | for循环
+* Class4_2_1 | 循环控制(素数)
+* Class4_2_2 | 多重循环(嵌套循环),凑硬币问题 -w:输出前50个素数(课后作业) -k:邮资邮费问题
+* Class4_2_3 | 逻辑类型(boolean)
+* Class4_3_1 | 求和
+* Class4_3_2 | 求最大公约数(枚举法及辗转相除法)
