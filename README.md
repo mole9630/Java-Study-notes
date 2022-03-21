@@ -8,6 +8,8 @@
 * [220310](https://github.com/mole9630/Java-Study-notes/tree/main/%E6%A0%A1%E5%86%85%E8%AF%BE%E7%A8%8B/220310)-判断,while循环
 * [220314](https://github.com/mole9630/Java-Study-notes/tree/main/%E6%A0%A1%E5%86%85%E8%AF%BE%E7%A8%8B/220314)-switch,while,dowhile,for循环
 * 220317-定义及调用方法,静态变量及方法,方法重载,对话框提示及输入,字符串转换为整型,break和continue的使用,水仙花数
+        -work 方法定义调用与方法重载(数字金字塔及字母金字塔)
+* 220321-动态与静态方式定义数组,一维数组,二维数组,数组的排序,数组的遍历及增强for循环foreach遍历
 
 ## 浙大课程
 ### Class1-计算
