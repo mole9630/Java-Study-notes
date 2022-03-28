@@ -41,6 +41,7 @@ public class Class6_3_2 {
         System.out.println(s1.indexOf('3')); //3 虽然有2个3,只能找到第一个3
         System.out.println(s1.indexOf('3',loc+1)); //7 从loc开始往后找3
 
+        //转换大写
         String s3 = "abcd";
         System.out.println(s3.toUpperCase()); //ABCD 转换成大写字母
     }
