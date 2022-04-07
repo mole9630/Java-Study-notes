@@ -12,6 +12,8 @@
 * 220324-类成员变量与构造方法,创建对象,类实例化-对象初始化,对象的引用
 * 220328-Girl:封装,私有化成员变量,get和set方法,构造方法(缺省,初始化) / TestGirl:get和set方法 / TestThis:this关键字 / Boy:带有一个参数的构造方法 / cn/Student: / Student:继承与扩展自己的属性与行为 / Person:-
 * 220331-类的继承
+* 220404-关键词final,重写toString()方法
+* 220407-方法重写,abstract抽象类
 
 ## 浙大课程
 ### Class1-计算
