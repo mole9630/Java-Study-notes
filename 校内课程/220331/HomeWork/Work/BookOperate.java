@@ -1,10 +1,10 @@
 package Study;
 /*
-# THIS FILE IS PART OF mole9630 PROJECT
-# Book.java - This is the java homework for April 1st
-# THIS PROGRAM IS FREE Code, IS LICENSED UNDER GPL3 License
-# Copyright (c) 2022 mole9630(Github)
-# www.mole9630.top | me@mole9630.top
+@ THIS FILE IS PART OF mole9630 PROJECT
+@ Book.java - This is the java homework for April 1st
+@ THIS PROGRAM IS FREE Code, IS LICENSED UNDER GPL3 License
+@ Copyright (c) 2022 mole9630(Github)
+@ www.mole9630.top | me@mole9630.top
 */
 public class BookOperate {
     public static void main(String[] args) {

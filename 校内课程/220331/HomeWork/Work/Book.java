@@ -1,10 +1,10 @@
 package Study;
 /*
-# THIS FILE IS PART OF mole9630 PROJECT
-# Book.java - This is the java homework for April 1st
-# THIS PROGRAM IS FREE Code, IS LICENSED UNDER GPL3 License
-# Copyright (c) 2022 mole9630(Github)
-# www.mole9630.top | me@mole9630.top
+@ THIS FILE IS PART OF mole9630 PROJECT
+@ Book.java - This is the java homework for April 1st
+@ THIS PROGRAM IS FREE Code, IS LICENSED UNDER GPL3 License
+@ Copyright (c) 2022 mole9630(Github)
+@ www.mole9630.top | me@mole9630.top
 */
 public class Book {
 //  1.类中包含成员变量：书名、书号、主编、出版社、页数、价格，均为私有的。
