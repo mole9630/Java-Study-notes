@@ -1,4 +1,4 @@
-package Shape;
+package Study.Work220412_3;
 
 public class Rectangle implements Shape {
     //成员变量
